@@ -1,0 +1,25 @@
+Create an S3 Bucket
+
+Create Execution Role that has access to S3 Bucket
+
+Upload your favorite song's lyrics as a text file to your S3 Bucket
+
+1. Create a Lambda function that reads the file from S3, and returns the contents
+
+2. Create a Lambda function that reads the file, does a unique word count, and counts each word's occurences. Display them in descending order
+  ie..  Metallica's Fade To Black:
+  "i": 6
+  "me" : 6
+  "to": 5
+  "will" 3
+  ....
+
+3. Create a Lambda function that does the same as Lab 2, but takes in a filename as a parameter
+
+
+4. Create a Lambda function that does the same functionality, but can handle multiple files from a parameter
+
+
+      
+
+
