@@ -9,7 +9,7 @@ functionality to simulate real-world scenarios.
 
 Check out /labs for what we will be covering
 
-Sample solutions can be found in /<language>
+Sample solutions can be found in /{language}
 
 
 
